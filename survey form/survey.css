@@ -1,0 +1,40 @@
+.sure{
+    background-color: darkmagenta;
+    height: 1100px;
+    width: 800px;
+    box-shadow: border-box;
+    border: 10px solid rgba(255, 0, 0, 0.877);
+    margin: 8px 65px;
+    padding: 20px;
+ }
+
+ .words{
+    padding-left: 250px;
+ }
+
+ .button{
+   background-color: black;
+        border: none;
+        color: white;
+        padding: 10px 24px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 4px 2px;
+        cursor: pointer;
+ }
+.second{
+   background-color: black;
+        border: none;
+        color: white;
+        padding: 10px 24px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        margin: 4px 2px;
+        cursor: pointer;
+
+}
+ 
